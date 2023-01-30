@@ -1,0 +1,19 @@
+{
+  "name": "hk_squash_league_schedule_to_iCal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cheerio": "^0.22.31",
+    "axios": "^1.2.6",
+    "cheerio": "^1.0.0-rc.12",
+    "ics": "^2.41.0",
+    "pretty": "^2.0.0"
+  }
+}
